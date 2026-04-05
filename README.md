@@ -139,7 +139,7 @@ Claude AI • ChatGPT • Gemini • GitHub Copilot
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a> 
 
- <a href="https://instagram.com/sk_sahil_0444">
+ <a href="https://instagram.com/sk__sahil__0444">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> 
 
